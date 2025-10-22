@@ -2,6 +2,7 @@
 
 A full-featured **food delivery platform** where users can explore restaurants, order meals online, and track their deliveries in real time.  
 Built with modern technologies for speed, scalability, and a smooth user experience.
+live:https://foodieexpress-ipb8.vercel.app/
 
 ---
 
